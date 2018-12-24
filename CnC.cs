@@ -8,5 +8,9 @@ namespace HackatonAssignment
 {
     class CnC
     {
+        //communicate with users
+        //gather infected addresses
+        //use infected to attack victim
+        
     }
 }
